@@ -1,0 +1,37 @@
+.about-section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.about-section h1 {
+  color: #004aad;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  color: #555;
+}
+
+/* Partners Section */
+.partners {
+  background-color: #f8f9fa;
+  padding: 50px;
+  text-align: center;
+}
+
+.partners h2 {
+  margin-bottom: 30px;
+}
+
+.partner-logos img {
+  width: 150px;
+  margin: 10px;
+  transition: transform 0.3s;
+}
+
+.partner-logos img:hover {
+  transform: scale(1.1);
+}
